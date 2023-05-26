@@ -1,2 +1,2 @@
 # 0main_openSAP_repo
-Main Repository for GIT UI5 Demos
+Main Repository for [openSap](http://opensap.com) Git UI5 Demos
