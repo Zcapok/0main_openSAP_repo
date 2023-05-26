@@ -1,0 +1,15 @@
+{
+  "name": "n_0main_opensap_repo",
+  "version": "1.0.0",
+  "description": "myPack",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "0Main_OPENSAP_REPO"
+  },
+  "author": "Stan",
+  "license": "ISC"
+}
