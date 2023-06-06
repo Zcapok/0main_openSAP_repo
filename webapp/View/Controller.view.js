@@ -1,3 +1,4 @@
 'use strict'
 
-myFunktion();
+myFunktion()
+let name = "Hans";
