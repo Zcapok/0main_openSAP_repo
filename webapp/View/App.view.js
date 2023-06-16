@@ -1,6 +1,6 @@
 'use strict'
 
-function downfunction(){
+function myFunktion(){
     var number = 1;
     var letty = "Hans";
 
