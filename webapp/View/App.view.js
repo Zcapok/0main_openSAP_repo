@@ -1,8 +1,8 @@
 'use strict'
 
-function myFunktion(){
-    var counter = 1;
-    var Name = "Stan";
+function downfunction(){
+    var number = 1;
+    var letty = "Hans";
 
     myFunktion(counter,Name)
     console.log(counter , Name);
